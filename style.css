@@ -1,0 +1,29 @@
+h3
+{
+    font-size: 26px !important ;
+    background-color: white;
+}
+
+th
+{text-align:center
+}
+ 
+td
+{vertical-align:middle
+}
+
+ tr:hover
+{background-color: cyan
+}
+
+table
+{background-color:peachpuff;
+}
+h2
+{color:red
+}
+
+body
+{
+   background-color: aqua;
+}
